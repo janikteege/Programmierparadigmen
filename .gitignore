@@ -1,0 +1,4 @@
+**/*.dSYM
+**/build
+**/.vscode
+**/.DS_Store
