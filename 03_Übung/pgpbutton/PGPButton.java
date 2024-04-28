@@ -1,3 +1,5 @@
+// Zusammenarbeit: Janik Teege, Nele Hüsemann
+
 import javax.swing.*;
 import java.awt.*;
 

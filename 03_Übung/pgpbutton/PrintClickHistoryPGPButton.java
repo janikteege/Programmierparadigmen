@@ -1,3 +1,5 @@
+// Zusammenarbeit: Janik Teege, Nele Hüsemann
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 

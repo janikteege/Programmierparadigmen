@@ -1,3 +1,5 @@
+// Zusammenarbeit: Janik Teege, Nele Hüsemann
+
 import java.awt.*;
 import java.util.Random;
 

@@ -1,3 +1,5 @@
+// Zusammenarbeit: Janik Teege, Nele Hüsemann
+
 import java.awt.*;
 
 public class PrintPositionPGPButton extends PGPButton {
