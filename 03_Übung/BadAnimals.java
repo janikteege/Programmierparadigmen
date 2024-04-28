@@ -27,30 +27,35 @@ class Animal {
 }
 
 class Dog extends Animal {
-	public void move() {
-		System.out.println("Dogs run.");
-	}
+    @Override
+    public void move() {
+        System.out.println("Dogs run.");
+    }
 }
 
 class Cat extends Animal {
+    @Override
 	public void move() {
 		System.out.println("Cats tiptoe.");
 	}
 }
 
 class Bird extends Animal {
+    @Override
 	public void move() {
 		System.out.println("Birds fly.");
 	}
 }
 
 class Cheetah extends Animal {
+    @Override
 	public void move() {
 		System.out.println("Cheetah sprint.");
 	}
 }
 
 class Sloth extends Animal {
+    @Override
 	public void move() {
 		System.out.println("Sloths don't move!");
 	}
