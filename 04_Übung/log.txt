@@ -1,0 +1,8 @@
+2024-05-05T22:45:58.93879 This is an info message
+2024-05-05T22:45:58.94376 This is a warning message
+2024-05-05T22:45:58.94394 This is an error message
+2024-05-05T22:47:50.663022 This is an info message
+2024-05-05T22:47:50.667785 This is a warning message
+2024-05-05T22:47:50.667933 This is an error message
+2024-05-05T22:48:10.170405 This is an error message
+2024-05-05T22:50:16.334768 [Error] This is an error message
