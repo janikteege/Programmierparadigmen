@@ -6,3 +6,9 @@
 2024-05-05T22:47:50.667933 This is an error message
 2024-05-05T22:48:10.170405 This is an error message
 2024-05-05T22:50:16.334768 [Error] This is an error message
+2024-05-05T23:02:33.9685 [Error] This is an error message
+2024-05-05T23:02:44.170425 [Trace] This is a trace message
+2024-05-05T23:02:44.17379 [Debug] This is a debug message
+2024-05-05T23:02:44.173927 [Info] This is an info message
+2024-05-05T23:02:44.174032 [Warn] This is a warning message
+2024-05-05T23:02:44.174136 [Error] This is an error message
