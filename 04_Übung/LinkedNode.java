@@ -1,7 +1,7 @@
 // Zusammenarbeit: Janik Teege, Nele Hüsemann
 
 
-public class LinkedNode<E extends Comparable<E>> { //TODO: complete class definition 
+public class LinkedNode<E extends Comparable<E>> {
 
     private Node head; // reference to the first node in the list
     
