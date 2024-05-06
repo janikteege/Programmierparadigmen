@@ -15,9 +15,11 @@ class FileLogger extends BaseLogger {
         }
     }
 
-    public FileLogger(Logger loggerDecorator) {
-        super(loggerDecorator);
-    }
+    // bad idea to use this constructor
+    
+    // public FileLogger(Logger loggerDecorator) {
+    //     super(loggerDecorator);
+    // }
     
     public void log(LogLevel level, String format, Object... args) {
         try {
