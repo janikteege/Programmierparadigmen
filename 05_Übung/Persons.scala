@@ -1,3 +1,6 @@
+//Zusammenarbeit von Janik Teege und Nele Hüsemann
+
+
 import java.time.LocalDate;
 import java.time.Period;
 
@@ -24,11 +27,10 @@ object Main {
     val birthdayOctober = persons.filter(person => person.dayOfBirth.getMonthValue == 10)
     val age = persons.map(person => Period.between(person.dayOfBirth, LocalDate.now()).getYears())
     val averageAge = age.sum / age.size
-    // TODO
+    
     println(lastNames)
     println(birthdayOctober)
     println(age)
     println(averageAge)
-    
   }
 }
