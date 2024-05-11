@@ -12,3 +12,13 @@
 2024-05-05T23:02:44.173927 [Info] This is an info message
 2024-05-05T23:02:44.174032 [Warn] This is a warning message
 2024-05-05T23:02:44.174136 [Error] This is an error message
+2024-05-07T13:24:33.031 [Trace] This is a trace message
+2024-05-07T13:24:33.067 [Debug] This is a debug message
+2024-05-07T13:24:33.068 [Info] This is an info message
+2024-05-07T13:24:33.068 [Warn] This is a warning message
+2024-05-07T13:24:33.068 [Error] This is an error message
+2024-05-07T13:55:47.681 [Trace] This is a trace message
+2024-05-07T13:55:47.706 [Debug] This is a debug message
+2024-05-07T13:55:47.706 [Info] This is an info message
+2024-05-07T13:55:47.706 [Warn] This is a warning message
+2024-05-07T13:55:47.707 [Error] This is an error message
