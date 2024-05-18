@@ -33,4 +33,5 @@ object Main {
     println(age)
     println(averageAge)
   }
-}
+
+} 
