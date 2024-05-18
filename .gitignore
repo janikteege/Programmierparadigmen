@@ -4,8 +4,11 @@
 **/.DS_Store
 **/.idea/*
 **/.metals/*
+**/.bsp/*
+**/.scala-build/*
 
 00_Folien/*
 
 *.class
 *.iml
+*.tasty
