@@ -1,3 +1,5 @@
+// Zusammenarbeit von Janik Teege & Nele Hüsemann
+
 object Rockets {
 
     case class Rocket(name: String, stages: Int, fuel: String);
