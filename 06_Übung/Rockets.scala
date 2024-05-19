@@ -3,7 +3,7 @@ object Rockets {
     case class Rocket(name: String, stages: Int, fuel: String);
 
     def printIf2Stages(rocket: Rocket) = {
-        //TODO: Filter based on if a rocket has 2 stages
+        // Filter based on if a rocket has 2 stages
         rocket match {
             case Rocket(_, 2, _) => println(rocket)
             case _ => ()
@@ -11,7 +11,7 @@ object Rockets {
     }
 
     def printIfLH2LOX(rocket: Rocket) = {
-        //TODO: Filter based on if a rocket uses LH2/LOX as fuel
+        // Filter based on if a rocket uses LH2/LOX as fuel
         rocket match {
             case Rocket(_, _, "LH2/LOX") => println(rocket)
             case _ => ()
@@ -19,7 +19,7 @@ object Rockets {
     }
 
     def printIfLOX(rocket: Rocket) = {
-        //TODO: Filter based on if a rocket uses LOX in its fuel
+        // Filter based on if a rocket uses LOX in its fuel
         rocket match {
             case Rocket(_, _, fuel) if fuel.contains("LOX") => println(rocket)
             case _ => ()
