@@ -1,3 +1,6 @@
+// Zusammenarbeit Nele Hüsemann, Janik Teege
+
+
 object Main {
     def charCount(list: List[String]): Int = {
         list.foldLeft(0)((count, string) => count + string.length)
