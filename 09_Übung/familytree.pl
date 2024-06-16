@@ -85,3 +85,5 @@ frau(abbey).
 % ?- tante(selma, bart).
 
 % ?- geschwister(X, lisa).
+
+% Halbgeschwisterregel halbgeschwister(X, Y) :- (vater(V, X), vater(V, Y)); (mutter(M, X), mutter(M, Y)), not(geschwister(X, Y)).
