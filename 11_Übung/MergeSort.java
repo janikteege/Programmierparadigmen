@@ -1,3 +1,5 @@
+// Zusammenarbeit Nele Hüsemann, Janik Teege
+
 import java.util.*;
 
 public class MergeSort {
